@@ -41,8 +41,6 @@
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### 🏆 GitHub Achievements:
 
-[![GitHub Achievements](https://github-profile-achievements-widgets.vercel.app/api?username=raja-abdullah&theme=radical&show_all=true)](https://github.com/raja-abdullah?tab=achievements)
 
 ---
