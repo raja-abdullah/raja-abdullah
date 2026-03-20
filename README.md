@@ -41,7 +41,7 @@
 
 ![Raja Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja-abdullah&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raja-abdullah&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raja-abdullah&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raja-abdullah&theme=radical)
 ---
