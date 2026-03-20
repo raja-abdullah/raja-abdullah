@@ -40,10 +40,11 @@
 
 ### 📊 GitHub Stats:
 
-![Jahangir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammuhammadjahangir&show_icons=true&theme=radical)
+![Raja Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja-abdullah&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadjahangir&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raja-abdullah&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raja-abdullah&theme=radical)
 ---
 
 ### ✍️ Random Dev Quote
