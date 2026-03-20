@@ -22,7 +22,7 @@
 | Category | Tech & Models |
 | :--- | :--- |
 | **Mobile Dev** | ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white) |
-| **Computer Vision** | ![YOLO](https://img.shields.io/badge/YOLO-v8/v11-00FFFF) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-High_Accuracy-red) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **Computer Vision** | ![YOLO](https://img.shields.io/badge/YOLO-v8/v11/v12/v26-00FFFF) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-High_Accuracy-red) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
 | **Core AI** | **Classification, Detection, Recognition, LPR (License Plate Recognition)** |
 | **Backend/DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
 
@@ -41,3 +41,8 @@
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🏆 GitHub Achievements:
+
+[![GitHub Achievements](https://github-profile-achievements-widgets.vercel.app/api?username=raja-abdullah&theme=radical&show_all=true)](https://github.com/raja-abdullah?tab=achievements)
+
+---
