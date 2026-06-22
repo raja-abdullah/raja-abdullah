@@ -34,8 +34,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![Raja Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja-abdullah&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raja-abdullah&theme=radical)
+![Abdullah's Realtime GitHub Stats](https://github-readme-stats.vercel.app/api?username=raja-abdullah&show_icons=true&count_private=true&theme=radical)
+![GitHub Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=raja-abdullah&theme=radical)
 
 ---
 
