@@ -31,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats:
-![Abdullah's Realtime GitHub Stats](https://github-readme-stats.vercel.app/api?username=raja-abdullah&show_icons=true&count_private=true&theme=radical)
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raja-abdullah&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 ![GitHub Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=raja-abdullah&theme=radical)
 
 ---
